@@ -1,0 +1,18 @@
+MCD Euclide -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#6hbxw6
+Numero di bit necessari per rappresentare un numero (shift personale) -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#8zq46r
+MCD 3 proprietà -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#q7g2io
+Prodotto tra due numeri con la somma -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#g4kybx
+Numero di bit necessari per rappresentare un numero (range) -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#a9wyix
+Ordinamento inverso rispetto all'inserimento dei numeri -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#uha4ts
+Numeri pari -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#hhr3gy
+Numeri dispari ->  https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#gmymgm
+Pari e dispari fino ad N -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#7ffbsq
+Coppie che sommate danno N -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#ixemiv
+Coppie che prodotte danno N -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=it#j7mrpp
+Inversione lettere testo al contrario dal verso di lettura -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#iav8tt
+Conversione binario-decimale con numero binario come testo -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#jsb8pk
+Esercizio 1 (sommatoria) -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#5yw5md
+Esercizio 2 (sommatoria) -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#fokrgr
+Radice quadrata parte intera -> https://blockly-demo.appspot.com/static/demos/code/index.html?lang=en#xzz2jj
+
+https://github.com/arch-linux-gui
