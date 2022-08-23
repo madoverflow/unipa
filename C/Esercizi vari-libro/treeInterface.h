@@ -1,0 +1,10 @@
+typedef int Item;
+typedef struct albero * Tree;
+Tree treeInit(Tree t);
+char treeIsEmpty(Tree t);
+void treeInsert(Tree t, Item x);
+void printTree(Tree t);
+int treeSearch(Tree t, Item x);
+void treeDelete(Tree t, Item x);
+int treeRecursiveSearch(Tree t, Item x);
+int treeDistance(Tree t, Item a, Item b);
