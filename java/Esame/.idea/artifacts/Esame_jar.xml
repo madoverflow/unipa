@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Esame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Esame_jar</output-path>
+    <root id="archive" name="Esame.jar">
+      <element id="module-output" name="Esame" />
+    </root>
+  </artifact>
+</component>
