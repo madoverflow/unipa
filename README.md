@@ -9,7 +9,7 @@ If you have some problems, you can contact me through support channels.
 
 
 ## 🛠 Programming languages
-C, Java
+C, Java, Matlab
 
 
 ## License
